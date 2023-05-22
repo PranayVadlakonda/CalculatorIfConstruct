@@ -37,9 +37,16 @@ public class Calculator {
         } else if (operator == '*') {
             // if yes , print the multiplication of two numbers
             System.out.println("firstNumber * secondNumber");
+        } else if (operator == '/') {
+            // if yes , print the quotient of two numbers
+            System.out.println("firstNumber / secondNumber");
 
 
+            
         }
+
+
+    }
 
 
     }
