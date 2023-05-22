@@ -40,18 +40,28 @@ public class Calculator {
         } else if (operator == '/') {
             // if yes , print the quotient of two numbers
             System.out.println("firstNumber / secondNumber");
+        } else { // the operator input by the user is not + - * /
+            // print invalid number
+            System.out.println("Invalid number");
+        }
+
+        // close the scanner
+        input.close();
+    }
+}
+
 
 
             
-        }
 
 
-    }
 
 
-    }
 
-    }
+
+
+
+
 
     }
 }
