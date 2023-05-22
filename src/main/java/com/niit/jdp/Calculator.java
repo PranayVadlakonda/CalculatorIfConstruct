@@ -30,16 +30,16 @@ public class Calculator {
         // check if the operator is +
         if (operator == '+') {
             // if yes , print the sum of to numbers
-            System.out.println("firstNumber + secondNumber");
+            System.out.println(firstNumber + secondNumber);
         } else if (operator == '-') {
             // if yes , print the difference of two numbers
-            System.out.println("firstNumber - secondNumber");
+            System.out.println(firstNumber - secondNumber);
         } else if (operator == '*') {
             // if yes , print the multiplication of two numbers
-            System.out.println("firstNumber * secondNumber");
+            System.out.println(firstNumber * secondNumber);
         } else if (operator == '/') {
             // if yes , print the quotient of two numbers
-            System.out.println("firstNumber / secondNumber");
+            System.out.println(firstNumber / secondNumber);
         } else { // the operator input by the user is not + - * /
             // print invalid number
             System.out.println("Invalid number");
@@ -63,5 +63,5 @@ public class Calculator {
 
 
 
-    }
-}
+
+

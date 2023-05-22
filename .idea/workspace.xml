@@ -45,6 +45,26 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.niit.jdp.Calculator" />
+      <module name="Calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.niit.jdp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,13 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1684755161664</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="then check if operator is * if yes print product">
+      <created>1684755389061</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684755389061</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="take a new scanner class and prompt the user to enter first number,operator and second number" />
     <MESSAGE value="then check if operator is + if yes print sum" />
     <MESSAGE value="then check if operator is - if yes print difference" />
-    <option name="LAST_COMMIT_MESSAGE" value="then check if operator is - if yes print difference" />
+    <MESSAGE value="then check if operator is * if yes print product" />
+    <option name="LAST_COMMIT_MESSAGE" value="then check if operator is * if yes print product" />
   </component>
 </project>
